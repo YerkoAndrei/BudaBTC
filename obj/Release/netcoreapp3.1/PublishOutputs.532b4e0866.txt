@@ -1,0 +1,7 @@
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Release\netcoreapp3.1\publish\BudaBTC.exe
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Release\netcoreapp3.1\publish\BudaBTC.dll
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Release\netcoreapp3.1\publish\BudaBTC.deps.json
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Release\netcoreapp3.1\publish\BudaBTC.runtimeconfig.json
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Release\netcoreapp3.1\publish\BudaBTC.pdb
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Release\netcoreapp3.1\publish\Figgle.dll
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

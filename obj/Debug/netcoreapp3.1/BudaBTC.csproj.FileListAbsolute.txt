@@ -1,0 +1,16 @@
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\obj\Debug\netcoreapp3.1\BudaBTC.csprojAssemblyReference.cache
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\obj\Debug\netcoreapp3.1\BudaBTC.AssemblyInfoInputs.cache
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\obj\Debug\netcoreapp3.1\BudaBTC.AssemblyInfo.cs
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\obj\Debug\netcoreapp3.1\BudaBTC.csproj.CoreCompileInputs.cache
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Debug\netcoreapp3.1\BudaBTC.exe
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Debug\netcoreapp3.1\BudaBTC.deps.json
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Debug\netcoreapp3.1\BudaBTC.runtimeconfig.json
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Debug\netcoreapp3.1\BudaBTC.runtimeconfig.dev.json
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Debug\netcoreapp3.1\BudaBTC.dll
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Debug\netcoreapp3.1\BudaBTC.pdb
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\obj\Debug\netcoreapp3.1\BudaBTC.dll
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\obj\Debug\netcoreapp3.1\BudaBTC.pdb
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\obj\Debug\netcoreapp3.1\BudaBTC.genruntimeconfig.cache
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\obj\Debug\netcoreapp3.1\BudaBTC.csproj.CopyComplete
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\BudaBTC\bin\Debug\netcoreapp3.1\Figgle.dll
