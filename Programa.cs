@@ -19,16 +19,16 @@ public class Programa
 
     private static void Main(string[] args)
     {
-        Console.Title = "                                              --- Cargando ---";
+        Console.Title = "                                                  --- Cargando ---";
         Console.BackgroundColor = ConsoleColor.Black;
-        Console.SetWindowSize(53, 14);
-        Console.SetBufferSize(53, 14);
+        Console.SetWindowSize(58, 12);
+        Console.SetBufferSize(58, 12);
 
         Programa programa = new Programa();
         programa.ObtenerRespuesta();
 
         timer = new Timer();
-        timer.Interval = 5000;
+        timer.Interval = 10000;
         timer.Elapsed += programa.ObtenerRespuesta;
         timer.AutoReset = true;
         timer.Enabled = true;
@@ -52,12 +52,12 @@ public class Programa
         Console.Clear();
         var textoPrecio = json.ticker.last_price[0].ToString();
         var valorPrecio = Double.Parse(textoPrecio, CultureInfo.InvariantCulture);
-        var precioalorFormateado = string.Format("{0:C}", valorPrecio);
+        var valorFormateado = string.Format(new CultureInfo("es-CL"), "{0:C0}", valorPrecio);
 
-        Console.Title = "                                              --- Bitcoin ---";
+        Console.Title = "                                                  --- Bitcoin ---";
 
         Console.ForegroundColor = ConsoleColor.Yellow;
-        Console.WriteLine("*****************************************************");
+        Console.WriteLine("*******************************************************");
 
         Console.ForegroundColor = ConsoleColor.Magenta;
         Console.Write("                 ");
@@ -65,10 +65,10 @@ public class Programa
         Console.WriteLine();
 
         Console.ForegroundColor = ConsoleColor.Yellow;
-        Console.WriteLine("*****************************************************");
+        Console.WriteLine("*******************************************************");
 
         Console.ForegroundColor = ConsoleColor.Magenta;
-        Console.WriteLine(FiggleFonts.Standard.Render(precioalorFormateado));
+        Console.WriteLine(FiggleFonts.Standard.Render(valorFormateado));
 
         Console.Beep();
     }
@@ -76,13 +76,13 @@ public class Programa
     private void ImprimirError(dynamic json)
     {
         Console.ForegroundColor = ConsoleColor.Red;
-        Console.Title = "                                              --- Error ---";
+        Console.Title = "                                                 --- Error ---";
 
-        Console.WriteLine("*****************************************************");
+        Console.WriteLine("*******************************************************");
         Console.Write("                    ");
         Console.WriteLine("Error " + json.code);
         Console.WriteLine();
-        Console.WriteLine("*****************************************************");
+        Console.WriteLine("*******************************************************");
 
         Console.WriteLine(json.message_code);
         Console.WriteLine(json.message);

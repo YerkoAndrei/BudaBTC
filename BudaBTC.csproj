@@ -6,6 +6,8 @@
     <StartupObject>Programa</StartupObject>
     <Authors>YerkoAndrei</Authors>
     <ApplicationIcon>bitcoin-icon-png-42940-Windows.ico</ApplicationIcon>
+    <SignAssembly>false</SignAssembly>
+    <Version>1.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

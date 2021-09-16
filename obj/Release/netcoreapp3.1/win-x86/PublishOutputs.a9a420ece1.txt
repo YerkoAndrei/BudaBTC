@@ -1,0 +1,2 @@
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\bin\Release\netcoreapp3.1\publish\BudaBTC.pdb
+C:\Users\YerkoAndrei\Desktop\Proyectos\BudaBTC\bin\Release\netcoreapp3.1\publish\BudaBTC.exe

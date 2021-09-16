@@ -6752,27 +6752,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\YerkoAndrei\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\YerkoAndrei\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YerkoAndrei\\Desktop\\Proyectos\\BudaBTC\\BudaBTC\\BudaBTC.csproj",
+      "projectUniqueName": "C:\\Users\\YerkoAndrei\\Desktop\\Proyectos\\BudaBTC\\BudaBTC.csproj",
       "projectName": "BudaBTC",
-      "projectPath": "C:\\Users\\YerkoAndrei\\Desktop\\Proyectos\\BudaBTC\\BudaBTC\\BudaBTC.csproj",
+      "projectPath": "C:\\Users\\YerkoAndrei\\Desktop\\Proyectos\\BudaBTC\\BudaBTC.csproj",
       "packagesPath": "C:\\Users\\YerkoAndrei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YerkoAndrei\\Desktop\\Proyectos\\BudaBTC\\BudaBTC\\obj\\publish\\win-x86\\",
+      "outputPath": "C:\\Users\\YerkoAndrei\\Desktop\\Proyectos\\BudaBTC\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\YerkoAndrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6819,15 +6812,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-            "version": "[3.1.9, 3.1.9]"
+            "version": "[3.1.16, 3.1.16]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x86",
-            "version": "[3.1.9, 3.1.9]"
+            "version": "[3.1.16, 3.1.16]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
-            "version": "[3.1.9, 3.1.9]"
+            "version": "[3.1.16, 3.1.16]"
           }
         ],
         "frameworkReferences": {
@@ -6835,7 +6828,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "BudaBTC/1.0.0": {
+      "BudaBTC/1.1": {
         "dependencies": {
           "Figgle": "0.4.0",
           "Newtonsoft.Json": "12.0.3"
@@ -704,7 +704,7 @@
     }
   },
   "libraries": {
-    "BudaBTC/1.0.0": {
+    "BudaBTC/1.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
